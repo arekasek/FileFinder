@@ -1,4 +1,4 @@
-## File and Directory Search Script
+# File and Directory Search Script
 
 This script allows you to search for files or directories within a specified location based on their modification dates. It supports interactive input for selecting the type of element to search for and defining the search criteria.
 
